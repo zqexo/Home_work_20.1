@@ -20,6 +20,6 @@
 
 ## Фунционал 
 
-Команда `python manage.py create_category` создаст 4 категории (удалит старые)
-Команда `python manage.py create_product` создаст 5 продуктов (удалит старые)
+1. Команда `python manage.py create_category` создаст 4 категории (удалит старые)
+2. Команда `python manage.py create_products` создаст 5 продуктов (удалит старые)
 
